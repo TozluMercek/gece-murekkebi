@@ -1,6 +1,6 @@
 # Anadolu Zanaatları — Discord Temaları
 
-Bunny, Revenge ve Kettu için altı tema. Her biri bir Anadolu zanaatından esinlendi ve kendine özel çizilmiş bir arka plan desenine sahip.
+Bunny, Revenge ve Kettu için yedi tema. Her biri bir Anadolu zanaatından esinlendi ve kendine özel çizilmiş bir arka plan desenine sahip.
 
 ## Kurulum
 
@@ -17,6 +17,7 @@ Arka plan görselleri temalara dahildir, ayrıca bir şey yüklemen gerekmez.
 | Ebru | `https://raw.githubusercontent.com/TozluMercek/gece-murekkebi/main/ebru/ebru.json` |
 | Telkari | `https://raw.githubusercontent.com/TozluMercek/gece-murekkebi/main/telkari/telkari.json` |
 | Kilim | `https://raw.githubusercontent.com/TozluMercek/gece-murekkebi/main/kilim/kilim.json` |
+| Selçuklu | `https://raw.githubusercontent.com/TozluMercek/gece-murekkebi/main/selcuklu/selcuklu.json` |
 | Usturlap | `https://raw.githubusercontent.com/TozluMercek/gece-murekkebi/main/usturlap/usturlap.json` |
 
 ---
@@ -88,6 +89,20 @@ https://raw.githubusercontent.com/TozluMercek/gece-murekkebi/main/kilim/kilim.js
 ```
 
 Tasarım felsefesi: [kilim/kilim-felsefe.md](kilim/kilim-felsefe.md)
+
+---
+
+## Selçuklu
+
+Kubadabad Sarayı'nın yıldız ve haç çinileri: firuze, patlıcan moru ve altın lüster çift bantlı geçmeler.
+
+![Selçuklu önizleme](selcuklu/selcuklu-onizleme.png)
+
+```
+https://raw.githubusercontent.com/TozluMercek/gece-murekkebi/main/selcuklu/selcuklu.json
+```
+
+Tasarım felsefesi: [selcuklu/selcuklu-felsefe.md](selcuklu/selcuklu-felsefe.md)
 
 ---
 
