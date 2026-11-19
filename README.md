@@ -37,7 +37,7 @@ Tasarım felsefesi: [sedef/sedef-felsefe.md](sedef/sedef-felsefe.md)
 
 ## Çini
 
-Cami duvarlarındaki İznik çinilerinden: kobalt zemin, lale, karanfil, hatayi ve saz yaprakları.
+İznik çinilerinin penç ve lale motifleri, gece mavisi zeminde ince ışıklı çizgilerle.
 
 ![Çini önizleme](cini/cini-onizleme.png)
 

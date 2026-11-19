@@ -1,9 +1,9 @@
 # Çini
 
-*Cami duvarındaki panonun ışıkla yeniden çizilmiş hâli.*
+*Cami çinisinin iki temel motifine indirgenmiş bir düzen.*
 
-Çini, İznik atölyelerinin en parlak döneminde cami duvarlarını kaplayan panolardan doğar. Lale, karanfil, hatayi ve tırtıllı saz yaprakları dört yöne doğru açılır. Burada motifler boya ile değil ışıkla çizilir: gece mavisi bir zeminin üzerinde, bir nakkaşın ilk kalem taslağı kadar ince çizgiler. Renk, kobalttan firuzeye, oradan sır beyazına ve mercana doğru yavaşça kayar.
+Çini, İznik panolarının en çok tekrar eden iki motifini alır ve geri kalan her şeyi bırakır: sekiz yuvarlak yapraklı penç ve dik duran üç yapraklı lale. Pençler düzenli bir ızgaranın düğümlerine, laleler aralarındaki boşluklara yerleşir. Her pencin göbeğinde tek bir mercan tanesi, her lalenin sapının ucunda küçük bir nokta durur.
 
-Her plaka tek başına bir bütündür ama asıl desen plakalar yan yana geldiğinde tamamlanır. Kenarlardaki yarım penç motifleri komşu plakayla birleşir, köşelerdeki hatayiler dört plakanın buluştuğu noktada tam bir çiçeğe dönüşür. Plakalar arasındaki derzler belli belirsiz bir ızgara olarak kalır. Her çiçeğin göbeğinde tek bir mercan tanesi parlar.
+Motifler boya ile değil, ince ve ışıklı çizgilerle çizilir. Renk gece mavisi zeminde kobalttan firuzeye, sır beyazına ve mercana doğru yavaşça kayar. Desen ekranın kenarlarında belirgindir, ortaya doğru loş bir cami içi gibi silinir ve sohbete yer açar.
 
-Desen ekranın kenarlarında belirgindir, ortaya doğru loş bir cami içi gibi silinir ve sohbete yer açar. Kobalt eylemi, mercan seslenmeyi, firuze bağlantıyı işaret eder. Sonuç, ustalığının zirvesindeki bir nakkaşın pano için günlerce üzerinde çalıştığı, her kıvrımı tek tek düşünülmüş bir taslak gibi hissettirmelidir.
+Kobalt eylemi, mercan seslenmeyi, firuze bağlantıyı işaret eder. Sonuç, bir nakkaşın yıllarca çizdiği iki motifi en saf hâline indirdiği bir taslak gibi hissettirmelidir: az, ama her çizgisi yerli yerinde.
