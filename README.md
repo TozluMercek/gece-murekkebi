@@ -37,7 +37,7 @@ Tasarım felsefesi: [sedef/sedef-felsefe.md](sedef/sedef-felsefe.md)
 
 ## Çini
 
-Gece mavisi sır, kobalt ve firuze hexagram deseni, mercan kırmızısı noktalar.
+Cami duvarlarındaki İznik çinilerinden: kobalt zemin, lale, karanfil, hatayi ve saz yaprakları.
 
 ![Çini önizleme](cini/cini-onizleme.png)
 
