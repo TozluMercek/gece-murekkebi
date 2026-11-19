@@ -1,6 +1,6 @@
 # Anadolu Zanaatları — Discord Temaları
 
-Bunny, Revenge ve Kettu için yedi tema. Her biri bir Anadolu zanaatından esinlendi ve kendine özel çizilmiş bir arka plan desenine sahip.
+Bunny, Revenge ve Kettu için altı tema. Her biri bir Anadolu zanaatından esinlendi ve kendine özel çizilmiş bir arka plan desenine sahip.
 
 ## Kurulum
 
@@ -13,7 +13,6 @@ Arka plan görselleri temalara dahildir, ayrıca bir şey yüklemen gerekmez.
 | Tema | Link |
 |---|---|
 | Sedef | `https://raw.githubusercontent.com/TozluMercek/gece-murekkebi/main/sedef/sedef.json` |
-| Çini | `https://raw.githubusercontent.com/TozluMercek/gece-murekkebi/main/cini/cini.json` |
 | Ebru | `https://raw.githubusercontent.com/TozluMercek/gece-murekkebi/main/ebru/ebru.json` |
 | Telkari | `https://raw.githubusercontent.com/TozluMercek/gece-murekkebi/main/telkari/telkari.json` |
 | Kilim | `https://raw.githubusercontent.com/TozluMercek/gece-murekkebi/main/kilim/kilim.json` |
@@ -33,20 +32,6 @@ https://raw.githubusercontent.com/TozluMercek/gece-murekkebi/main/sedef/sedef.js
 ```
 
 Tasarım felsefesi: [sedef/sedef-felsefe.md](sedef/sedef-felsefe.md)
-
----
-
-## Çini
-
-İznik çinilerinin penç ve lale motifleri, gece mavisi zeminde ince ışıklı çizgilerle.
-
-![Çini önizleme](cini/cini-onizleme.png)
-
-```
-https://raw.githubusercontent.com/TozluMercek/gece-murekkebi/main/cini/cini.json
-```
-
-Tasarım felsefesi: [cini/cini-felsefe.md](cini/cini-felsefe.md)
 
 ---
 
