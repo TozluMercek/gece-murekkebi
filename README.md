@@ -1,6 +1,6 @@
 # Anadolu Zanaatları — Discord Temaları
 
-Bunny, Revenge ve Kettu için altı tema. Her biri bir Anadolu zanaatından esinlendi ve kendine özel çizilmiş bir arka plan desenine sahip.
+Bunny, Revenge ve Kettu için yedi tema. Her biri bir Anadolu zanaatından esinlendi ve kendine özel çizilmiş bir arka plan desenine sahip.
 
 ## Kurulum
 
@@ -18,6 +18,7 @@ Arka plan görselleri temalara dahildir, ayrıca bir şey yüklemen gerekmez.
 | Kilim | `https://raw.githubusercontent.com/TozluMercek/gece-murekkebi/main/kilim/kilim.json` |
 | Selçuklu | `https://raw.githubusercontent.com/TozluMercek/gece-murekkebi/main/selcuklu/selcuklu.json` |
 | Usturlap | `https://raw.githubusercontent.com/TozluMercek/gece-murekkebi/main/usturlap/usturlap.json` |
+| Kûfi | `https://raw.githubusercontent.com/TozluMercek/gece-murekkebi/main/kufi/kufi.json` |
 
 ---
 
@@ -102,3 +103,17 @@ https://raw.githubusercontent.com/TozluMercek/gece-murekkebi/main/usturlap/ustur
 ```
 
 Tasarım felsefesi: [usturlap/usturlap-felsefe.md](usturlap/usturlap-felsefe.md)
+
+---
+
+## Kûfi
+
+Murabba kûfi hattından: is siyahı zemin, kâğıt beyazı ve kurşun grisi kare kıvrımlar. Hiç renk yok.
+
+![Kûfi önizleme](kufi/kufi-onizleme.png)
+
+```
+https://raw.githubusercontent.com/TozluMercek/gece-murekkebi/main/kufi/kufi.json
+```
+
+Tasarım felsefesi: [kufi/kufi-felsefe.md](kufi/kufi-felsefe.md)

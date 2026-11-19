@@ -1,0 +1,232 @@
+{
+  "name": "Kûfi",
+  "description": "Murabba kûfi hattından: is siyahı zemin, kâğıt beyazı ve kurşun grisi kare kıvrımlar. Hiç renk yok.",
+  "authors": [
+    {
+      "name": "TozluMercek",
+      "id": "0"
+    }
+  ],
+  "spec": 2,
+  "background": {
+    "url": "https://raw.githubusercontent.com/TozluMercek/gece-murekkebi/main/kufi/kufi-arkaplan.jpg",
+    "blur": 0,
+    "alpha": 0.85
+  },
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": [
+      "#161616"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#121212"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#101010"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#0A0A0A"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#101010"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#161616"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#161616"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#121212"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#313131"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#202020"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#282828"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#282828"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#313131"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#1B1B1B"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#292929"
+    ],
+    "BACKGROUND_MENTIONED_HOVER": [
+      "#313131"
+    ],
+    "BACKGROUND_SECONDARY_ALT_HOVER": [
+      "#202020"
+    ],
+    "HEADER_PRIMARY": [
+      "#FFFFFF"
+    ],
+    "HEADER_SECONDARY": [
+      "#BCBCBC"
+    ],
+    "TEXT_NORMAL": [
+      "#E4E4E4"
+    ],
+    "TEXT_MUTED": [
+      "#8C8C8C"
+    ],
+    "TEXT_LINK": [
+      "#FFFFFF"
+    ],
+    "TEXT_POSITIVE": [
+      "#C8C8C8"
+    ],
+    "TEXT_WARNING": [
+      "#A6A6A6"
+    ],
+    "TEXT_DANGER": [
+      "#F0F0F0"
+    ],
+    "TEXT_BRAND": [
+      "#E0E0E0"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#BCBCBC"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#F2F2F2"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#484848"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#8C8C8C"
+    ],
+    "CHANNEL_ICON": [
+      "#8C8C8C"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#1C1C1C"
+    ],
+    "CHAT_BACKGROUND": [
+      "#161616"
+    ],
+    "CHAT_BORDER": [
+      "#0A0A0A"
+    ],
+    "CHAT_INPUT_CONTAINER_BACKGROUND": [
+      "#121212"
+    ],
+    "INPUT_BACKGROUND": [
+      "#101010"
+    ],
+    "INPUT_PLACEHOLDER_TEXT": [
+      "#656565"
+    ],
+    "BORDER_FAINT": [
+      "#202020"
+    ],
+    "BORDER_SUBTLE": [
+      "#282828"
+    ],
+    "BORDER_STRONG": [
+      "#3E3E3E"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#313131"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#313131"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#101010"
+    ],
+    "STATUS_POSITIVE": [
+      "#C8C8C8"
+    ],
+    "STATUS_WARNING": [
+      "#A6A6A6"
+    ],
+    "STATUS_DANGER": [
+      "#F0F0F0"
+    ],
+    "MENTION_FOREGROUND": [
+      "#CECECE"
+    ],
+    "MENTION_BACKGROUND": [
+      "#3E3E3E"
+    ],
+    "BUTTON_SECONDARY_BACKGROUND": [
+      "#282828"
+    ],
+    "BUTTON_SECONDARY_BACKGROUND_HOVER": [
+      "#313131"
+    ],
+    "BUTTON_DANGER_BACKGROUND": [
+      "#868686"
+    ],
+    "BUTTON_POSITIVE_BACKGROUND": [
+      "#848484"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#1C1C1C"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#121212"
+    ],
+    "MODAL_BACKGROUND": [
+      "#121212"
+    ],
+    "MODAL_FOOTER_BACKGROUND": [
+      "#101010"
+    ],
+    "HOME_BACKGROUND": [
+      "#0A0A0A"
+    ],
+    "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
+      "#E0E0E0"
+    ],
+    "REDESIGN_BUTTON_PRIMARY_TEXT": [
+      "#0A0A0A"
+    ]
+  },
+  "rawColors": {
+    "BRAND_260": "#F3F3F3",
+    "BRAND_360": "#E0E0E0",
+    "BRAND_400": "#C0C0C0",
+    "BRAND_500": "#868686",
+    "BRAND_530": "#797979",
+    "BRAND_560": "#6B6B6B",
+    "BRAND_600": "#5E5E5E",
+    "BRAND_700": "#434343",
+    "PRIMARY_100": "#FFFFFF",
+    "PRIMARY_130": "#F2F2F2",
+    "PRIMARY_160": "#E4E4E4",
+    "PRIMARY_200": "#CACACA",
+    "PRIMARY_300": "#BCBCBC",
+    "PRIMARY_330": "#A4A4A4",
+    "PRIMARY_360": "#8C8C8C",
+    "PRIMARY_400": "#656565",
+    "PRIMARY_500": "#484848",
+    "PRIMARY_530": "#3E3E3E",
+    "PRIMARY_560": "#313131",
+    "PRIMARY_600": "#161616",
+    "PRIMARY_630": "#121212",
+    "PRIMARY_645": "#1C1C1C",
+    "PRIMARY_660": "#101010",
+    "PRIMARY_700": "#0A0A0A",
+    "PRIMARY_730": "#080808",
+    "PRIMARY_760": "#070707",
+    "PRIMARY_800": "#050505",
+    "GREEN_360": "#C8C8C8",
+    "YELLOW_300": "#A6A6A6",
+    "RED_400": "#F0F0F0",
+    "WHITE_500": "#FFFFFF",
+    "BLACK_500": "#050505"
+  }
+}
