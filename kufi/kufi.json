@@ -189,10 +189,13 @@
       "#000000"
     ],
     "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
-      "#E0E0E0"
+      "#262626"
     ],
     "REDESIGN_BUTTON_PRIMARY_TEXT": [
-      "#000000"
+      "#FFFFFF"
+    ],
+    "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
+      "#373737"
     ],
     "BG_BASE_PRIMARY": [
       "#000000"
