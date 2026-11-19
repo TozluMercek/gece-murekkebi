@@ -22,6 +22,6 @@ Murabba kûfi hattından: is siyahı zemin, kâğıt beyazı ve kurşun grisi ka
 
 ![Kûfi önizleme](kufi/kufi-onizleme.png)
 
-Arka plan animasyonludur (GIF): çizgilerin üzerinden geçen bir ışık süzmesi, dönen baklavalar ve nefes alan noktalar. İstemcin GIF oynatmazsa JSON'daki `background.url` sonundaki `kufi-arkaplan-v2.gif` kısmını `kufi-arkaplan.jpg` yap, aynı desenin durağan hâli gelir.
+Arka plan animasyonludur (GIF): çizgilerin üzerinden geçen yumuşak bir ışık, çizgilerin etrafında hafif bir hale ve nefes alan noktalar. İstemcin GIF oynatmazsa JSON'daki `background.url` sonundaki `kufi-arkaplan-v3.gif` kısmını `kufi-arkaplan.jpg` yap, aynı desenin durağan hâli gelir.
 
 Tasarım felsefesi: [kufi/kufi-felsefe.md](kufi/kufi-felsefe.md)
