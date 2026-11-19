@@ -1,9 +1,9 @@
 # Çini
 
-*Cami duvarında dört yüz yıldır bekleyen sırrın hareketi.*
+*Cami duvarındaki panonun ışıkla yeniden çizilmiş hâli.*
 
-Çini, İznik atölyelerinin en parlak döneminden, cami duvarlarını kaplayan panolardan doğar. Kobalt bir zeminin üzerinde lale, karanfil, hatayi ve tırtıllı saz yaprakları dört yöne doğru açılır. Her plaka tek başına bir bütündür ama asıl desen plakalar yan yana geldiğinde tamamlanır: kenarlardaki yarım penç motifleri komşu plakayla birleşir, köşelerdeki çeyrek hatayiler dört plakanın buluştuğu noktada tam bir çiçeğe dönüşür.
+Çini, İznik atölyelerinin en parlak döneminde cami duvarlarını kaplayan panolardan doğar. Lale, karanfil, hatayi ve tırtıllı saz yaprakları dört yöne doğru açılır. Burada motifler boya ile değil ışıkla çizilir: gece mavisi bir zeminin üzerinde, bir nakkaşın ilk kalem taslağı kadar ince çizgiler. Renk, kobalttan firuzeye, oradan sır beyazına ve mercana doğru yavaşça kayar.
 
-Gerçekçilik ayrıntılarda saklıdır. Her plakanın sırı biraz farklı pişmiştir, kimi bir ton açık, kimi hafif sıcak kalmıştır. Yüzeyde yumuşak bir parlaklık, iğne ucu kadar sır kusurları ve plakaları ayıran koyu derzler vardır. Kontur çizgileri koyu lacivert, renkler İznik'in kendi paletidir: kobalt, firuze, kaolin beyazı, mercan kırmızısı ve yeşil.
+Her plaka tek başına bir bütündür ama asıl desen plakalar yan yana geldiğinde tamamlanır. Kenarlardaki yarım penç motifleri komşu plakayla birleşir, köşelerdeki hatayiler dört plakanın buluştuğu noktada tam bir çiçeğe dönüşür. Plakalar arasındaki derzler belli belirsiz bir ızgara olarak kalır. Her çiçeğin göbeğinde tek bir mercan tanesi parlar.
 
-Duvar ekranın kenarlarında canlıdır, ortaya doğru loş bir cami içi gibi kararır ve sohbete yer açar. Kobalt eylemi, mercan seslenmeyi, firuze bağlantıyı işaret eder. Sonuç, bir nakkaşın kalemiyle çizilip bir ustanın fırınında pişirilmiş, sonra sabırla duvara dizilmiş bir pano gibi hissettirmelidir.
+Desen ekranın kenarlarında belirgindir, ortaya doğru loş bir cami içi gibi silinir ve sohbete yer açar. Kobalt eylemi, mercan seslenmeyi, firuze bağlantıyı işaret eder. Sonuç, ustalığının zirvesindeki bir nakkaşın pano için günlerce üzerinde çalıştığı, her kıvrımı tek tek düşünülmüş bir taslak gibi hissettirmelidir.
