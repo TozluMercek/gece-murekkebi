@@ -6,4 +6,6 @@ Kûfi, hat sanatının en geometrik biçimi olan murabba kûfiden doğar: harfle
 
 Renk tamamen yoktur. Zemin AMOLED ekranlarda pikselleri tamamen söndüren saf siyahtır (#000000), çizgiler kurşun grisinden kâğıt beyazına kadar uzanan tonlarda yavaşça parlayıp söner. Her hücrenin içinde tek bir beyaz nokta durur, hattatın kamışını ilk değdirdiği yer gibi. Desen kenarlarda belirgindir, ortaya doğru silinir ve sohbete yer açar.
 
+Desen durağan değildir. Çizgilerin üzerinden yavaşça çapraz bir ışık geçer, bir kandil ışığının kâğıtta gezinmesi gibi. Hücrelerin arasındaki küçük baklavalar çeyrek tur döner, beyaz noktalar ekran boyunca sırayla nefes alıp verir. Hücreler arasındaki ince kesik çizgiler, hattatın kâğıda çektiği cetvel izlerini hatırlatır.
+
 Vurgu da renkle değil parlaklıkla yapılır: en açık gri eylemi, orta gri seslenmeyi, saf beyaz bağlantıyı işaret eder. Sonuç, bir hattatın yıllarca aynı dik açıyı çizerek ulaştığı sadelik gibi hissettirmelidir: siyah, beyaz ve aradaki boşluk.
