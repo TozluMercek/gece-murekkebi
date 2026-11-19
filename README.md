@@ -108,7 +108,7 @@ Tasarım felsefesi: [usturlap/usturlap-felsefe.md](usturlap/usturlap-felsefe.md)
 
 ## Kûfi
 
-Murabba kûfi hattından: is siyahı zemin, kâğıt beyazı ve kurşun grisi kare kıvrımlar. Hiç renk yok.
+Murabba kûfi hattından: is siyahı zemin, kâğıt beyazı ve kurşun grisi kare kıvrımlar. Hiç renk yok, AMOLED siyahı.
 
 ![Kûfi önizleme](kufi/kufi-onizleme.png)
 
